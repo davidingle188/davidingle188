@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Ingle <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120"></h1>
-<h3 align="center">Data Analyst | SQL, PowerBI, Excel, Python | Continuous Learning in ML & Data Science</h3>
+<h3 align="center">Data Analyst | SQL, PowerBI, Excel, Python | Continuous Learning in ML & Data Science <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Description of the GIF" width="40">
+</h3>
 
 
 ```python
