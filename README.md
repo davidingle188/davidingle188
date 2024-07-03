@@ -8,7 +8,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "David Ingle"
         self.role = "Data Analyst"
-        self.skills = ["SQL", "Python", "Excel", "Power BI"]
+        self.skills = ["SQL", "Python", "Excel", "Power BI", "Mathematics and Statistics"]
         self.energy = "Unlimited (after coffee)"
         self.error_rate = "Minimal (just don't check my debugging history)"
         
